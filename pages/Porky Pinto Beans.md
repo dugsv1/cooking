@@ -19,8 +19,7 @@ tags:: [[recipe]], [[beans]], [[Mexican cuisine]], [[pinto bean]], [[braise]], [
 - [[salt]], to taste
 - A little [[cooking oil]] (for sautéing)
 - ## Method
-  
-  1. **Soak the beans.** Cover the beans with plenty of water and add the kosher salt and baking soda. Soak overnight, then drain and rinse.
+- 1. **Soak the beans.** Cover the beans with plenty of water and add the kosher salt and baking soda. Soak overnight, then drain and rinse.
   
   2. **Build the pot.** Place the soaked beans in a Dutch oven. Pour in enough chicken broth to just cover the beans. Add the pig foot and bay leaf. Bring to a gentle simmer.
   
@@ -32,8 +31,7 @@ tags:: [[recipe]], [[beans]], [[Mexican cuisine]], [[pinto bean]], [[braise]], [
   
   6. **Serve.** Remove the pig foot. Pull off the tender meat and gelatinous skin, chop them, and stir them back into the beans if desired. Discard the bones and any tough connective tissue.
 - ## PlantUML Diagram
-  
-  ```plantuml
+- ```plantuml
   @startuml
   title Porky Pinto Beans (Dutch Oven)
   skinparam titleFontSize 30
