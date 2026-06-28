@@ -13,13 +13,8 @@ tags:: [[recipe]], [[dish]], [[American Italian fusion]], [[cannellini bean]], [
 - ¾ cup [[Parmesan cheese]], freshly grated
 - Juice of ¼–½ [[lemon]]
 - 2 cups [[Swiss chard]], finely chopped
-- ### Optional
-- [[bread]], toasted
-- [[red pepper flake]]
-- Additional [[Parmesan cheese]]
 - ## Method
-  
-  1. Heat the [[olive oil]] in a skillet over medium heat.
+- 1. Heat the [[olive oil]] in a skillet over medium heat.
   2. Add the [[scallion]] and [[garlic]]. Cook until softened and fragrant, about 5 minutes.
   3. Stir in the [[salt]], [[black pepper]], and [[smoked paprika]]. Cook for about 1 minute.
   4. Add the [[cannellini bean]], [[bone broth]], [[parsley]], [[Parmesan cheese]], and [[lemon]] juice. Stir to combine.
@@ -29,8 +24,7 @@ tags:: [[recipe]], [[dish]], [[American Italian fusion]], [[cannellini bean]], [
   8. Taste and adjust the [[salt]] if needed.
   9. Serve with additional [[Parmesan cheese]], [[red pepper flake]], and toasted [[bread]] if desired.
 - ## PlantUML Diagram
-  
-  ```plantuml
+- ```plantuml
   @startuml
   title Garlic Parmesan Beans
   skinparam titleFontSize 30
