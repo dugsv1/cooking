@@ -3,34 +3,29 @@ tags:: [[recipe]], [[dish]], [[American Italian fusion]], [[cannellini bean]], [
 - ## Ingredients
 - 1 tbsp [[olive oil]]
 - 1 bunch [[scallion]], finely chopped
-- 3 cans [[cannellini bean]], drained
 - 6–10 cloves [[garlic]], finely chopped
 - ¼–½ tsp [[salt]]
 - ¼ tsp [[black pepper]]
-- 3 tbsp [[parsley]], finely chopped
 - ½ tsp [[smoked paprika]]
+- 3 cans [[cannellini bean]], drained
 - 1½ cups [[bone broth]]
+- 150–200g [[silken tofu]]
+- 1–2 tbsp [[nutritional yeast]]
 - ¾ cup [[Parmesan cheese]], freshly grated
 - Juice of ¼–½ [[lemon]]
 - 2 cups [[Swiss chard]], finely chopped
-- 150–200g [[silken tofu]]
-- 1–2 tbsp [[nutritional yeast]]
 - ## Method
 - 1. Heat the [[olive oil]] in a skillet over medium heat.
   2. Add the [[scallion]] and [[garlic]]. Cook until softened and fragrant, about 5 minutes.
   3. Stir in the [[salt]], [[black pepper]], and [[smoked paprika]]. Cook for about 1 minute.
-  4. Add the [[cannellini bean]], [[bone broth]], [[parsley]], [[Parmesan cheese]], and [[lemon]] juice. Stir to combine.
-- 1. In a blender, combine:
-	- [[silken tofu]]
-	- [[nutritional yeast]]
-	- ¼–½ cup [[bone broth]] or reserved bean cooking liquid
-	- Juice of ¼ [[lemon]]
-	- A few grinds of [[black pepper]]
-- 5. Mash approximately one-quarter of the beans, leaving the rest whole to create a creamy texture.
-  6. Bring to a gentle simmer and cook for about 15 minutes, stirring occasionally. Do not boil.
-  7. Reduce the heat to low and fold in the [[Swiss chard]] until just wilted.
-  8. Taste and adjust the [[salt]] if needed.
-  9. Serve with additional [[Parmesan cheese]], [[red pepper flake]], and toasted [[bread]] if desired.
+  4. In a blender, combine the [[silken tofu]], [[nutritional yeast]], ¼–½ cup of the [[bone broth]] (or reserved bean cooking liquid), a squeeze of [[lemon]] juice, and a few grinds of [[black pepper]]. Blend until completely smooth.
+  5. Add the [[cannellini bean]], the remaining [[bone broth]], the blended tofu mixture, and half of the [[Parmesan cheese]]. Stir to combine.
+  6. Mash approximately one-quarter of the beans, leaving the remainder whole for texture.
+  7. Bring to a gentle simmer and cook for about 15 minutes, stirring occasionally. Do not boil.
+  8. Reduce the heat to low and fold in the [[Swiss chard]] until just wilted.
+  9. Stir in the remaining [[Parmesan cheese]] and the remaining [[lemon]] juice.
+  10. Taste and adjust the [[salt]] if needed.
+  11. Serve with additional [[Parmesan cheese]], [[red pepper flake]], and toasted [[bread]] if desired.
 - ## PlantUML Diagram
 - <img src="https://www.plantuml.com/plantuml/png/bLHBRjj03DtFAOZi2yGDqaK05t42E6s15aNT7e2I68iGPqQO6ITmLxb3Rz1pj5taA3b9EICvsIWGl14aVX_V8mLm6HE6jBDY4YSXkC4WNCDN39OYEhWYTD74ZbsF0IsKgBLtQSC_2SvEfrnVq1Ai0gDCUQ-z-01NWdKtMJVj5KRbfJ56NObhxj4bEDbqB4Bf1332-6xCSWdNtdVQpLlKs0ZBfJ7E9uB0spQ1ltqE_kYsWHecb-A5UNhu3Gj8LUp12zyHU9RHMErStKAiKOIzAyPtJm-_5gTGYx-Z2Dl2KN4y_b7Furz8MYUYfD5Olgiy8lJKznG6-nXdVKSDzDW7xj2GQo03DcO42c_U7p331NmWJ0NSfBSCVu0AgAL6S9CKQCAgyhi4vs3PlT9mrJGG2QDtxBPnfj1YAAGoRDXQ2iE-72F26TGvGn-ET0h7K6c9GGebhDxrKRV1wKe4dzenfUYcsn65zWEr_tBaozhMBL6aulgquveoX8DMGbPbdQ4zin388cSMW5zGJuT_njXctRLDLIvcCchaQAjrP3_7xFapjMi5eUMF8FNjmDlcdgDIss9evkPTwy7fc6FmQz1-kCG2zoo9ca5r2dexHo2RKkXRlePo9d0hs0t6xnwZTb7P2MVHwr-hK9GF86P8nbngIlwj_GS0" />
   {{renderer :plantuml_qiggrkiq}}
