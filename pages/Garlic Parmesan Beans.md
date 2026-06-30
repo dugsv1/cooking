@@ -13,12 +13,20 @@ tags:: [[recipe]], [[dish]], [[American Italian fusion]], [[cannellini bean]], [
 - ¾ cup [[Parmesan cheese]], freshly grated
 - Juice of ¼–½ [[lemon]]
 - 2 cups [[Swiss chard]], finely chopped
+- 150–200g [[silken tofu]]
+- 1–2 tbsp [[nutritional yeast]]
 - ## Method
 - 1. Heat the [[olive oil]] in a skillet over medium heat.
   2. Add the [[scallion]] and [[garlic]]. Cook until softened and fragrant, about 5 minutes.
   3. Stir in the [[salt]], [[black pepper]], and [[smoked paprika]]. Cook for about 1 minute.
   4. Add the [[cannellini bean]], [[bone broth]], [[parsley]], [[Parmesan cheese]], and [[lemon]] juice. Stir to combine.
-  5. Mash approximately one-quarter of the beans, leaving the rest whole to create a creamy texture.
+- 1. In a blender, combine:
+	- [[silken tofu]]
+	- [[nutritional yeast]]
+	- ¼–½ cup [[bone broth]] or reserved bean cooking liquid
+	- Juice of ¼ [[lemon]]
+	- A few grinds of [[black pepper]]
+- 5. Mash approximately one-quarter of the beans, leaving the rest whole to create a creamy texture.
   6. Bring to a gentle simmer and cook for about 15 minutes, stirring occasionally. Do not boil.
   7. Reduce the heat to low and fold in the [[Swiss chard]] until just wilted.
   8. Taste and adjust the [[salt]] if needed.
