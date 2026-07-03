@@ -24,6 +24,9 @@ tags:: [[recipe]], [[main dish]], [[vegetarian]], [[cannellini bean]], [[sauté]
   7. Stir in the grated Parmesan and season with salt to taste.
   8. Finish with chopped parsley, if using, and serve immediately.
 - ## PlantUML Diagram
+- {{renderer :plantuml_knneqmx}}
+	- ```plantuml 
+	  ```
 - ```plantuml
   @startuml
   title Creamy Mushroom Beans
